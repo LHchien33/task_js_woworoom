@@ -1,5 +1,5 @@
-import { Toast, toastType, Popup } from './_notify.js';
-import { domain, api_base, api_path } from './_apiConfig.js';
+import { Toast, toastType, Popup } from './notify.js';
+import { domain, api_base, api_path } from './apiConfig.js';
 
 let productData;
 let cartsData;
